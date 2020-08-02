@@ -1,0 +1,22 @@
+	 Welcome to bhoir retails
+
+Bill no. : 9385
+Customer name : rhutik
+Customer phone : 7397957254
+=======================================
+Products		QTY		Price
+=======================================
+Bath Soap		21		Rs. 20
+Face Creame		323		Rs. 60
+Daal		23		Rs. 35
+Tea		43		Rs. 60
+Maza		56		Rs. 40
+Frooti		43		Rs. 20
+Thumps Up		42		Rs. 60
+---------------------------------------
+Total Cosmatic Tax :			2970
+Total Grocery Tax : 			338
+Total Cold drinks Tax : 			843
+---------------------------------------
+Total Rs : 				32956.0
+---------------------------------------

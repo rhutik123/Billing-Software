@@ -1,0 +1,25 @@
+	 Welcome to bhoir retails
+
+Bill no. : 3132
+Customer name : rhutik
+Customer phone : 7397957254
+=======================================
+Products		QTY		Price
+=======================================
+Bath Soap		1		Rs. 20
+Hair Gel		3		Rs. 120
+Body Lotion		1		Rs. 150
+Rice		45		Rs. 34
+Food Oil		2		Rs. 40
+Wheat		2		Rs. 60
+Sugar		23		Rs. 34
+Coke		1		Rs. 35
+Frooti		4		Rs. 20
+Thumps Up		3		Rs. 60
+---------------------------------------
+Total Cosmatic Tax :			79
+Total Grocery Tax : 			251
+Total Cold drinks Tax : 			44
+---------------------------------------
+Total Rs : 				3711.0
+---------------------------------------
